@@ -32,7 +32,7 @@ Hi, I’m **Leonardo Galicia**, a passionate developer from Bauru/SP, Brazil. I 
 
 ### 🤖 Languages & Technologies
 
-<img align="left" alt="ADVPL"    title="ADVPL"  width="30px" style="margin-right:8px;" src="https://github.com/totvs/advpl-vscode/blob/master/advpl-icon-theme.json" />
+<img align="left" alt="ADVPL"    title="ADVPL"  width="30px" style="margin-right:8px;" src="./assets/icons/advpl-svgrepo-com.svg" />
 <img align="left" alt="SQLServer" title="SQL Server" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PowerBI"  title="Power BI" width="30px" style="margin-right:8px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
 <img align="left" alt="Python"   title="Python" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
